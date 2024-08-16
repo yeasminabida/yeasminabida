@@ -1,4 +1,4 @@
-## Hi, I'm Abida, 
+## Hi, I'm Abida!
 
 A passionate Computer Information Systems major with a focus on becoming a full-stack web developer. 
 Coding can be challenging, but the moment when my code comes to life makes all the stress worthwhile.
